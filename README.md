@@ -1,6 +1,4 @@
-###################
-Monty Hall Problem
-###################
+# Monty Hall Problem
 
 The Monty Hall problem is a situa!on in the game show Let’s Make A Deal where the contestant is given the op!on of picking 1 of 3 doors. The host, Monty Hall, would then open one of the remaining doors, revealing one of the losing op!on. The contestant would then be given the choice of keeping the door that they originally chose or switching to the other, unrevealed door.
 
